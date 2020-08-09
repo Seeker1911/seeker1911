@@ -5,6 +5,9 @@
 [![GitHub Seeker1911](https://img.shields.io/github/followers/seeker1911?label=follow&style=social)](https://github.com/seeker1911)
 
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=troll%20Bill%20%28%40epochblue%29&style=social&url=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Ftext%3Dtime%2520for%2520a%2520cocktail%26recipient_id%3D121609125)](https://twitter.com/messages/compose?text=time%20for%20a%20cocktail!&recipient_id=8391692)
+
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
