@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 [![Linkedin: michaelmead](https://img.shields.io/badge/-michaelmead-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelmead007/)](https://www.linkedin.com/in/michaelmead007/)
-[![GitHub Seeker1911](https://img.shields.io/github/followers/seeker1911?label=follow&style=social)](https://github.com/seeker1911)
 
-[![test: michaelmead](https://img.shields.io/badge/-michaelmead-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/messages/compose?text=time%20for%20a%20cocktail&recipient_id=121609125)]
+[![GitHub Seeker1911](https://img.shields.io/github/followers/seeker1911?label=follow&style=social)](https://github.com/seeker1911)
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,3 +37,8 @@ Here are some ideas to get you started:
 https://twitter.com/messages/compose?text=time%20for%20a%20cocktail&recipient_id=121609125
 121609125
 -->
+
+
+
+[![test](https://img.shields.io/badge/-michaelmead-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/messages/compose?text=time%20for%20a%20cocktail&recipient_id=121609125)]
+
