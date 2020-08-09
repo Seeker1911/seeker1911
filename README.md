@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Linkedin: michaelmead](https://img.shields.io/badge/-michaelmead-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelmead007/)](https://www.linkedin.com/in/michaelmead007/)
+[![GitHub Seeker1911](https://img.shields.io/github/followers/seeker1911?label=follow&style=social)](https://github.com/seeker1911)
+
+![Michael's Github Stats](https://github-readme-stats.vercel.app/api?username=seeker1911&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 <!--
 **Seeker1911/seeker1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
